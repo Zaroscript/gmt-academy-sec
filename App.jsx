@@ -7,7 +7,7 @@ import {
 } from 'lucide-react';
 
 // --- API Configuration ---
-const apiKey = ""; // The execution environment provides the key at runtime
+const apiKey = "AIzaSyCcAEhS_irBP4K9s2dskoWKXUiLzd3C2Xs"; // The execution environment provides the key at runtime
 
 // --- System Prompts ---
 const CHATBOT_PROMPT = `أنت مساعد ذكي ولطيف لطلاب المرحلة الثانوية في مصر. مهمتك هي الإجابة على أسئلة الطلاب بخصوص الاختيار بين "نظام الثانوية العامة" و"نظام البكالوريا المصرية".
